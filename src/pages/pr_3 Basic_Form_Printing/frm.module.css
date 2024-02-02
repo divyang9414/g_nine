@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    width: fit-content;
+    margin: auto;
+}
+.frm_fields{
+    margin-bottom: 8px;
+}
+input,
+textarea{
+    font-size: 22px;
+    outline: none;
+}
+.frm_title{
+    font-size: 22px;
+    font-weight: 500;
+    width: 150px;
+}
+.subTitle{
+    font-size: 22px;
+    width: 150px;
+    margin-left: 8px;
+}
+.inputData,
+select{
+    font-size: 22px;
+    width: 300px;
+}
+.button{
+    display: inline-block;
+    padding: 8px 16px;
+    width: 150px;
+    margin: 0 auto;
+}
+.bg_color{
+    background-color: lightslategray;
+}

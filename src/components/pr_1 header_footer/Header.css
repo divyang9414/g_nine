@@ -1,0 +1,29 @@
+.header {
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+}
+
+.logo {
+    margin-right: 2rem;
+}
+
+.navigation li{
+    padding: 5px 10px;
+}
+
+.nav-item a{
+    color: #fff;
+}
+
+.nav-item:hover a{
+    color: #F08125;
+}
+
+.contact {
+    margin-left: 2rem;
+}
+
+.active{
+    color: #F08125 !important;
+}

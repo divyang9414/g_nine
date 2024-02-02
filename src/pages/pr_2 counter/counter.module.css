@@ -1,0 +1,32 @@
+.stopwatch {
+    /* background: #333; */
+    background-image: url(../../../public/bg1.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.clock_counter {
+    /* background: #333; */
+    background-image: url(../../../public/bg2.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.m_clock{
+    width: 40%;
+    margin: auto;
+}
+button{
+    width: 49%;
+    text-align: center;
+    margin-bottom: 8px;
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 16px;
+}
+.b_left{
+    margin-right: 0.50%;
+}
+.b_right{
+    margin-left: 0.50%;
+}

@@ -1,0 +1,23 @@
+thead tr th{
+    padding-bottom: 16px;
+    font-size: 38px;
+}
+td{
+    padding-left: 4px;
+    padding-bottom: 8px;
+    font-size: 29px;
+}
+.index{
+    width: 150px;
+    text-align: center;
+}
+.title{
+    padding-left: 40px;
+    width: 500px;
+}
+.p_date{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+}
