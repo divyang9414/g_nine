@@ -10,6 +10,7 @@ const projectData = [
     { title: 'Basic Form printing', link:'/Basic_Form_Printing', p_date: '27/01/2024' },
     { title: 'Form validation', link:'/FormValidation', p_date: '27/01/2024' },
     { title: 'Review system', link:'/Review', p_date: '30/01/2024' }
+    { title: 'Review system', link:'/Review', p_date: '30/01/2024' }
 ]
 
 const Home = () => {
