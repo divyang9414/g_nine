@@ -6,7 +6,7 @@ const data = [
 		id: 1,
 		name: "Queen Beauty",
 		category: "rings",
-		image: "/jewellery/JG-1901-1969.jpg",
+		image: "https://www.jewelegance.com/cdn/shop/files/JGX-1912-01326.jpg?v=1691577658&width=360",
 		price: 25585,
 	},
 	{
