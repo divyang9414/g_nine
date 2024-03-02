@@ -12,6 +12,7 @@ import Basic_Form_Printing from './pages/pr_3 Basic_Form_Printing/Basic_Form_Pri
 import FormValidation from './pages/pr_3 FormValidation/FormValidation.jsx';
 import Review from './pages/pr_4 review system/Review.jsx';
 import Crud from './pages/pr_6 CRUD Operation/Crud.jsx';
+import Sorting from './pages/pr_8 Sorting_and_More/Sorting.tsx';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path="/FormValidation" element={<FormValidation />} />
           <Route path="/Review" element={<Review />} />
           <Route path="/Crud" element={<Crud />} />
+          <Route path="/Sorting" element={<Sorting />} />
         </Routes>
       </Router>
     </>
